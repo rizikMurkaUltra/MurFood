@@ -52,3 +52,85 @@
     width: 150px;
     height: 150px;
 }
+
+
+
+.description{
+    display: flex;
+}
+
+
+.text{
+    margin-left: 33px;
+}
+
+.text p{
+    font-size: 64px;
+    color: rgb(241, 241, 241);
+    -webkit-text-stroke: 1px black;
+}
+
+
+.rightpart img{
+    width: 672px;
+    height: 448px;
+    margin-top: 31px;
+    margin-right: 76px;
+}
+
+
+.menu-btn{
+    width: 458px;
+    height: 147px;
+    background-color: #EDCF36;
+    border-radius: 50px;
+    font-size: 96px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+
+.top3-section{
+    background-color: #EDCF36;
+    font-size: 96px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+.top3-section p{
+    display: flex;
+    justify-content: center;
+}
+
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 379px;
+    height: 568px;
+    background-color: #EDCF36;
+}
+
+.p1{
+    display: flex;
+    align-items: center;
+    font-size: 72px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+
+.card img{
+    margin-bottom: 141px;
+    margin-left: 21px;
+    width: 326px;
+    height: 326px;
+}
+
+.p2{
+    font-size: 48px;
+    -webkit-text-stroke: 1px black;
+}
